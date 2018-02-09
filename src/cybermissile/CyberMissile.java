@@ -15,7 +15,6 @@ public class CyberMissile {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
         FlightSystem fs = new FlightSystem();
         Warhead wh = new Warhead();
         fs.setTarget("The Moon");
